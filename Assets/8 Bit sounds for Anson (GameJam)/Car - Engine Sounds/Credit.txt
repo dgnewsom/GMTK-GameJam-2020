@@ -1,0 +1,11 @@
+0505 (low speed, bassy, not much accerlation).wav
+https://bigsoundbank.com/detail-0505-car-interior-80km-h.html
+Author: Joseph SARDIN 
+
+engine-loop-1.wav
+https://opengameart.org/content/car-engine-loop-96khz-4s
+Author: qubodup
+
+engine-loop-1-normalized.wav
+https://opengameart.org/content/car-engine-loop-96khz-4s
+Author: qubodup
